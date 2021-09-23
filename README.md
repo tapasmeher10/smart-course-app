@@ -11,7 +11,7 @@ Application for E-Learning video. Developed using Flutter
 
 ## 🎥 Promo Video
 
-Watch the promo video <a href="https://www.youtube.com/watch?v=ghD5H9TF9sU&ab_channel=HappyFluttering">here.</a>
+Watch the promo video <a href="https://drive.google.com/file/d/13fuFjlmioDra2Uc1FNtYpTJKjp_yH-91/view?usp=drivesdk">here.</a>
 
 ## 💻 Installation steps
 
