@@ -1,6 +1,6 @@
 # E-LEARNING APP
 
-Application for E-Learning video. Developed using Flutter
+Application for E-Learning videos. Developed using Flutter
 
 <div align="center">
 
