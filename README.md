@@ -1,2 +1,1 @@
-# smart-course-app
-flutter
+# smart_course_app
